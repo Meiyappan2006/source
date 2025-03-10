@@ -27,5 +27,5 @@ This is a responsive and modern portfolio website built using core web technolog
 
 ## 🔗 Live Demo
 
-[Click here to view the live portfolio] http://127.0.0.1:3000/my website/index.html
+[Click here to view the live portfolio] https://meiyappan2006.github.io/source/
 
